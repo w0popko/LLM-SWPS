@@ -26,6 +26,3 @@ Projekt wymaga pliku `key.txt` umieszczonego w głównym folderze, który nie je
 3. Uruchom `doc_process.ipynb`, aby przetworzyć dokumenty PDF.
 4. Uruchom `text_embedding.ipynb`, aby stworzyć embeddingi tekstów.
 5. Uruchom `chat_embedded.ipynb`, aby testować chatbota.
-
-## Kontakt
-W przypadku pytań lub potrzeby wsparcia, prosimy o kontakt z naszym zespołem przez platformę szkolną.
